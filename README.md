@@ -23,9 +23,6 @@ Python Housing Data
 <b></b>https://github.com/CaddenB26/Housing-Data/blob/c78b60dd225ceb621cac0fa13a94211cc320a243/MAT%20303%20Projecr%201.docx
 <br />
 <br />
-<img src="https://github.com/CaddenB26/Housing-Data/blob/642b2a0ebd0463398f4ca351232c92bf8c8964a4/Housing.png" />
-<br />
-<br />
 <img src="https://github.com/CaddenB26/Housing-Data/blob/642b2a0ebd0463398f4ca351232c92bf8c8964a4/Housing1.png" />
 <br />
 <br />
