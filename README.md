@@ -1,59 +1,43 @@
-<h1>Housing Data Report</h1>
+# Housing-Data
 
 
-<h2>Description</h2>
-Python Housing Data
-<br />
+## Executive Summary:
+
+  I looked at a housing dataset for California countys to find the best priced house in the best environment such as a low crime rate county. This was done using square footage, rooms, crime rate, bathrooms using first order and second oreder tests keeping an close eye on the f-tests.
 
 
-<h2>Language</h2>
+### Business Problem: 
 
-- <b>Python</b> 
+  A real estate company in California is looking for a way to rate a property based off of key factors that consumers tend to find appealing and unappealing. This will help the realtors find perfect homes for their clients faster and smoother than they previously have had to in the past.
 
 
-<h2>Environments Used </h2>
+### Methodology: 
 
-- <b>Windows 11, Mac OS</b> (21H2)
+1. Python - hypothesis testing, f-test.
+   
+2. Data visuals - Plots used in jupyter notebook.
 
-<h2>Housing Report:</h2>
 
-<p align="center">
-<b>Housing Report: <b/>
-  <br /)
-<b></b>https://github.com/CaddenB26/Housing-Data/blob/c78b60dd225ceb621cac0fa13a94211cc320a243/MAT%20303%20Projecr%201.docx
-<br />
-<br />
-<img src="https://github.com/CaddenB26/Housing-Data/blob/642b2a0ebd0463398f4ca351232c92bf8c8964a4/Housing1.png" />
-<br />
-<br />
-<img src="https://github.com/CaddenB26/Housing-Data/blob/642b2a0ebd0463398f4ca351232c92bf8c8964a4/Housing2.png" />
-<br />
-<br />
-<img src="https://github.com/CaddenB26/Housing-Data/blob/642b2a0ebd0463398f4ca351232c92bf8c8964a4/Housing3.png" />
-<br />
-<br />
-  <img src="https://github.com/CaddenB26/Housing-Data/blob/642b2a0ebd0463398f4ca351232c92bf8c8964a4/Housing4.png" />
-<br />
-<br />
-<img src="https://github.com/CaddenB26/Housing-Data/blob/642b2a0ebd0463398f4ca351232c92bf8c8964a4/Housing5.png" />
-<br />
-<br />
-<img src="https://github.com/CaddenB26/Housing-Data/blob/642b2a0ebd0463398f4ca351232c92bf8c8964a4/Housing6.png" />
-<br />
-<br />
-<img src="https://github.com/CaddenB26/Housing-Data/blob/642b2a0ebd0463398f4ca351232c92bf8c8964a4/Housing7.png" />
-<br />
-<br />
-<img src="https://github.com/CaddenB26/Housing-Data/blob/642b2a0ebd0463398f4ca351232c92bf8c8964a4/Housing8.png" />
-<br />
-<br />
-<img src="https://github.com/CaddenB26/Housing-Data/blob/642b2a0ebd0463398f4ca351232c92bf8c8964a4/Housing9.png" />
-<br />
-<br />
-  <img src="https://github.com/CaddenB26/Housing-Data/blob/642b2a0ebd0463398f4ca351232c92bf8c8964a4/Housing10.png" />
-<br />
-<br />
-<img src="https://github.com/CaddenB26/Housing-Data/blob/642b2a0ebd0463398f4ca351232c92bf8c8964a4/Housing11.png" />
-<br />
-<br />
-<p/>
+
+
+### Skills:
+
+Python: Numpy, Pandas, Matplotlib
+
+Data visualization: scatter plot
+
+
+
+
+### Results & Business Recommendation: 
+
+  I reviewed the dataset for the homes in different counties giving the real estate company scorings of homes based off of square footage, number of rooms, number of bathrooms, crime rate in the county, and the price of the home. This information in turn helped the real estate company find the perfect home for each family or individual based on their situations.
+
+
+
+The best way to move forward is to make sure each person gets the best possible home for them based off their incomes and their ideal home as far as rooms, amenities, and bathrooms go for the family/individual.
+
+### Next Steps: 
+
+1. Continue monitoring crime rate
+2. Be sure the price of the home is correct in the systems
